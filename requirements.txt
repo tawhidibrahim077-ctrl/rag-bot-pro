@@ -9,3 +9,4 @@ chromadb
 google-generativeai
 sentence-transformers
 torch
+streamlit-authenticator==0.3.1
